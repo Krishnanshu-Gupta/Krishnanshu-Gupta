@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/krishnanshu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://krishnanshu.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
   <a href="mailto:krishnanshu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white" /></a> 
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-833ab4?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://www.youtube.com/@krish.gupta01" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/krish.gupta01" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-833ab4?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://medium.com/@krishnanshu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
