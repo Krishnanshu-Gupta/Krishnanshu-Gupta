@@ -10,11 +10,11 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&height=38&lines=Product+Manager;Entrepreneur+%26+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Innovating)](https://git.io/typing-svg)\
-I’m an aspiring Product Manager and entrepreneur! Currently a senior at Cal Poly studying Computer Science specializing in AI + ML, and a minor in Data Science. 
+Hey, I’m Krish! I’m an Associate Product Manager (APM) at Google on the AI Innovation & Research team. Previously, I was a Software Engineering Intern at NVIDIA, focused on building scalable infrastructure and internal tooling to automate the testing and deployment of Large Language, Multimodal, and Speech models for NVIDIA NeMo.
 
-Working as a Product Manager Intern at Tinder and have previously interned at Amazon, Xerox, and several startups for PM + SWE roles.
+I’ve also interned at Tinder, Amazon, Xerox, and several startups across both PM and SWE roles. Additionally, worked on machine learning research at NASA, investigating incipient boiling and heat leakage in cryogenic fuel tanks.
 
-Always excited to work on cool projects and ideas — hit me up!
+CS graduate from Cal Poly SLO, with a focus in AI/ML and a minor in Data Science. I’m passionate about building products that create meaningful global impact. If you’re working on something cool, or just want to chat, hit me up!
 
 
 <h3>Tools I've used 🔨</h3>
