@@ -9,7 +9,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&height=38&lines=Product+Manager;Entrepreneur+%26+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Innovating)](https://git.io/typing-svg)\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&height=38&lines=Product+Manager;Entrepreneur+%26+Developer;AI+%26+Machine+Learning;Always+Innovating)](https://git.io/typing-svg)\
 Hey, I’m Krish! I’m an Associate Product Manager (APM) at Google on the AI Innovation & Research team. Previously, I was a Software Engineering Intern at NVIDIA, focused on building scalable infrastructure and internal tooling to automate the testing and deployment of Large Language, Multimodal, and Speech models for NVIDIA NeMo.
 
 I’ve also interned at Tinder, Amazon, Xerox, and several startups across both PM and SWE roles. Additionally, worked on machine learning research at NASA, investigating incipient boiling and heat leakage in cryogenic fuel tanks.
